@@ -1,0 +1,101 @@
+@charset "utf-8";
+
+
+#pageHeader h1 {
+	text-shadow: 0 0px;
+	border: medium solid #798C8C;
+	background-color: #88ACAC;
+	font-family: bilbo-swash-caps;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 5em;
+	color: #6E090F;
+	text-align: center;
+	line-height: 1em;
+	padding-bottom: 1.5px;
+	padding-top: 2.5px;
+}
+#pageHeader h1 a:hover  {
+	background-color: #035757;
+	font-family: bilbo-swash-caps;
+	font-style: normal;
+	font-size: 5em;
+	color: #EEF7F6;
+	text-align: center;
+	line-height: 1em;
+	padding-bottom: 1.5px;
+	padding-top: 2.5px;
+}
+#pageHeader h1 a  {
+	background-color: #035757;
+	font-family: bilbo-swash-caps;
+	font-style: normal;
+	font-size: 1em;
+	color: #EEF7F6;
+	text-align: center;
+	line-height: 1em;
+	padding-bottom: 1.5px;
+	padding-top: 2.5px;
+	text-decoration: none;
+}
+
+#pageHeader h2 {
+	color: #020202;
+	font-family: bilbo-swash-caps;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 1.5em;
+	text-align: left;
+	line-height: 1em;
+}
+#pageHeader h2 a:hover  {
+	color: #EEF7F6;
+	font-family: bilbo-swash-caps;
+	font-style: normal;
+	font-weight: 100;
+	font-size: 1.5em;
+	text-align: left;
+	line-height: 1em;
+	background-color: #035757;
+}
+#pageHeader h2 a {
+	text-decoration: none;
+	color: #020202;
+}
+
+
+body {
+	width: 960px;
+	padding-left: auto;
+	padding-right: auto;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #B0BFBE;
+	color: #423C3C;
+	font-family: homemade-apple;
+	font-variant: normal;
+	font-style: normal;
+	font-weight: 400;
+	font-size: x-large;
+	line-height: 2em;
+}
+
+
+#pageFooter p {
+	font-family: bilbo-swash-caps;
+	font-size: x-large;
+	text-align: center;
+	color: #840508;
+	font-style: normal;
+	font-weight: 400;
+}
+
+
+
+#pageMain h1 {
+	font-family: aguafina-script;
+	font-style: normal;
+	font-weight: 400;
+	font-size: xx-large;
+	color: #6E090F;
+}

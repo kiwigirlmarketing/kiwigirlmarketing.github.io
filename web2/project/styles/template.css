@@ -1,0 +1,135 @@
+body {
+	font-family: "Century Gothic";
+	font-size: medium;
+	color: Black;
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	
+	background: url(../images/ferns2.png) 100%;
+}
+
+a:link {
+	color: #45856F;
+	text-decoration: underline;
+}
+a:visited {
+	color: Gray;
+	text-decoration: underline;
+}
+ a:hover {
+	color: #45856F;
+	text-decoration: none;
+}
+a:active {
+	color: White;
+	text-decoration: none;
+}
+
+   nav {
+	background-color: Red;
+	color: Black;
+	font-weight: bolder;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+}
+
+header {
+	background-color: #F9F9F9;
+	padding: 0px;
+	margin: 0px;
+}
+
+h1 {
+	font-family: "Century Gothic";
+	color: Red;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+	text-align: left;
+	text-indent: 0px; padding: 0px; margin: 0px;
+}
+h2 {
+	font-family: "Century Gothic";
+	color: Red;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 20px;
+	text-align: left;
+	text-indent: 0px; padding: 0px; margin: 0px;
+}
+
+   nav ul { margin: 0px; padding: 0px; }
+
+   nav li { display: inline;	list-style: none; padding-left: 10px;
+        padding-right: 10px;   }
+
+   nav a:link {
+	color: Black;
+	text-decoration: none;
+}
+
+   nav a:visited {
+	color: Black;
+	text-decoration: underline;
+	
+}
+
+   nav a:hover {
+	color: White;
+	text-decoration: none;
+	background-color: #55A489;
+}
+
+   nav a:active {
+	color: #3C7461;
+	text-decoration: underline;
+}
+
+#left {
+	float: left;
+	width: 210px;
+	margin-left: 5px;
+	margin-right: 5px;
+	padding: 3px;
+	background-color: #9ACD32;
+	height: auto;
+}
+#right {
+height: auto;
+margin-left: 225px;
+padding: 3px;
+background-color: transparent;
+}
+   footer {
+	text-align: center;
+	clear: both;
+	font-size: .8em;
+	color: Black;
+}
+   
+#wrapper {
+	width: 90%;
+	padding: 8px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #F9F9F9;
+	background-position: center;
+	border: medium double;
+}
+   
+#content { width: 940px;
+	margin-left: 10px;
+	margin-right: 10px;}
+
+.center {
+	text-align: center;
+}
+.floating {
+	float: right; margin-left: 20px; margin-right: 20px;
+
+
+
+	
+	
